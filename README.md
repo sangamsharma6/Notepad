@@ -1,6 +1,6 @@
 # sqflitenotepad
 
-Notepad
+Notepad Developed in Flutters with SQFlite as Local Database for Storing data
 
 ## Getting Started
 
